@@ -32,6 +32,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [RabbitXposed](https://firmburrow.rabbitu.de/asusna/RabbitXposed) - Makes rabbit app usable with a xposed patch.
 - [r1 apk patcher](https://firmburrow.rabbitu.de/meowster/r1-apk-patcher) - Tool to patch a clean rabbit apk into a working one.
 - [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - r1 emulator AVD Setup Files and Instructions.
+- [Hop Project](https://firmburrow.rabbitu.de/crankyroo/MetaHop) - Project working to create a launcher and SDK for r1.
 
 ## Servers
 
