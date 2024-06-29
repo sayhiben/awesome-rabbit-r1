@@ -14,7 +14,6 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [Servers](#servers)
 - [Integrations & Utiliies](#integrations--utilities)
 - [R1-Inspired Projects](#r1-inspired-projects)
-- [R1-Adjacent Projects](#r1-adjacent-projects)
 - [Reference Material](#reference-material)
 - [News & Articles](#news--articles)
     - [Jailbreaking](#news-jailbreaking)
@@ -53,9 +52,6 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [RabbitKit](https://github.com/KibbeWater/RabbitKit) - Communication Library for KibbeWater/Rabbit.
 - [rabbit esp32](https://github.com/fbiego/rabbit-esp32) - A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1.
 - [Rabbitt](https://github.com/GikitSRC/rabbitt) - A Small Action Model; named after Rabbit's Large Action Model that can take actions on websites on your behalf.
-
-## R1-Adjacent Projects
-
 - [AgentOS](https://github.com/10cl/agentos) - An attempt to replicate r1's features natively on Android without the need for a remote backend.
 
 ## Reference Material
