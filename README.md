@@ -1,4 +1,4 @@
-# Awesome Rabbit r1
+# Awesome Rabbit r1 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-rabbit-r1/actions/workflows/lint.yml/badge.svg)
 A list of resources (and related projects) for hacking on the Rabbit r1
 
 > [!WARNING]
