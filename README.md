@@ -23,12 +23,13 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 ## Jailbreaks
 
 - [r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) - A jailbreak tool for the Rabbit r1.
-- [RabbitXposed](https://firmburrow.rabbitu.de/asusna/RabbitXposed) - Makes rabbit app usable with a xposed patch.
+
 
 ## Clients
 
 - [rabbitude launcher](https://firmburrow.rabbitu.de/rabbitude/rabbitude-launcher) - A native Android project meant run on the r1 and reimplement the r1's frontend.
 - [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
+- [RabbitXposed](https://firmburrow.rabbitu.de/asusna/RabbitXposed) - Makes rabbit app usable with a xposed patch.
 - [r1 apk patcher](https://firmburrow.rabbitu.de/meowster/r1-apk-patcher) - Tool to patch a clean rabbit apk into a working one.
 - [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - r1 emulator AVD Setup Files and Instructions.
 
