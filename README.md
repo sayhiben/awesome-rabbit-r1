@@ -1,3 +1,5 @@
+<!--lint disable remark-lint:no-undefined-references-->
+
 # Awesome Rabbit R1 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/sayhiben/awesome-rabbit-r1/actions/workflows/lint.yml/badge.svg)
 A list of resources (and related projects) for hacking on the Rabbit r1
 
@@ -64,20 +66,20 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ### News: Jailbreaking
 
-- [XDA Forums: How to Unlock Rabbit R1 Bootloader - Tutorial](https://xdaforums.com/t/how-to-unlock-rabbit-r1-bootloader-tutorial.4676024/).
-- [Yanko Design: Got a Rabbit R1? You can now run Android 13 on it and use it like a regular smartphone](https://www.yankodesign.com/2024/06/27/got-a-rabbit-r1-you-can-now-run-android-13-on-it-and-use-it-like-a-regular-smartphone/).
+- [XDA Forums: How to Unlock Rabbit R1 Bootloader - Tutorial](https://xdaforums.com/t/how-to-unlock-rabbit-r1-bootloader-tutorial.4676024/) - Article.
+- [Yanko Design: Got a Rabbit R1? You can now run Android 13 on it and use it like a regular smartphone](https://www.yankodesign.com/2024/06/27/got-a-rabbit-r1-you-can-now-run-android-13-on-it-and-use-it-like-a-regular-smartphone/) - Article.
 
 ### News: June 2024 Security Vulnerabilities
 
-- [Rabbitude: rabbit  data  breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1).
-- [Engadget: Rabbit R1 security issue allegedly leaves sensitive user data accessible to anybody](https://www.engadget.com/rabbit-r1-security-issue-allegedly-leaves-sensitive-user-data-accessible-to-anybody-120024215.html).
-- [The Verge: A group of R1 jailbreakers found a massive security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase).
-- [XDA: Major security flaw in Rabbit R1 code could have allowed hackers to access customer data, brick all devices](https://www.xda-developers.com/major-security-flaw-rabbit-r1-code-hackers-customer-data-brick-devices/).
-- [Gizmodo: Hackers Claim They Have Access to a Hoard of Rabbit R1 User Data](https://gizmodo.com/rabbit-r1-hackers-can-brick-devices-1851561096).
+- [Rabbitude: rabbit  data  breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1) - Article.
+- [Engadget: Rabbit R1 security issue allegedly leaves sensitive user data accessible to anybody](https://www.engadget.com/rabbit-r1-security-issue-allegedly-leaves-sensitive-user-data-accessible-to-anybody-120024215.html) - Article.
+- [The Verge: A group of R1 jailbreakers found a massive security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase) - Article.
+- [XDA: Major security flaw in Rabbit R1 code could have allowed hackers to access customer data, brick all devices](https://www.xda-developers.com/major-security-flaw-rabbit-r1-code-hackers-customer-data-brick-devices/) - Article.
+- [Gizmodo: Hackers Claim They Have Access to a Hoard of Rabbit R1 User Data](https://gizmodo.com/rabbit-r1-hackers-can-brick-devices-1851561096) - Article.
 
 ## Resources
 
 - [Rabbitude](https://rabbitu.de/) - A reverse-engineering and hacking project for the Rabbit r1.
-- [Rabbitude Discord](https://discord.gg/BQ7VnDFysJ).
+- [Rabbitude Discord](https://discord.gg/BQ7VnDFysJ) - Rabbitude's Discord Server.
 - [Rabbitude Firmburrow](https://firmburrow.rabbitu.de) - A self-hosted collection of Git repositories for Rabbitude's projects.
 - [RabbitHoleEscapeR1](https://github.com/RabbitHoleEscapeR1) - A GitHub account that hosts several Rabbit r1 jailbreak-and-reverse-engineering-related resources.
