@@ -59,7 +59,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Reference Material
 
-- [MS35774 Info]https://firmburrow.rabbitu.de/retr0id/ms35774) - Stepper motor driver details for the ms35774 (r1's camera motor).
+- [MS35774 Info](https://firmburrow.rabbitu.de/retr0id/ms35774) - Stepper motor driver details for the ms35774 (r1's camera motor).
 - [GSI tree](https://github.com/RabbitHoleEscapeR1/device_rabbit_r1) - A view of the Rabbit r1's device image / filesystem.
 
 ## News & Articles
