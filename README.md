@@ -7,6 +7,9 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 > [!WARNING]
 > You may void your warranty or violate Rabbit's Terms of Service by using the software or following instructions on the pages linked to from this page. Do so at your own risk.
 
+> [!NOTE]
+> As of June 29, 2024, many of these projects are still in their infancy. The "r1_escape" jailbreak will help you get Android 13 running on your r1 for now. Please consider contributing to other listed projects.
+
 ## Contents
 
 - [Jailbreaks](#jailbreaks)
