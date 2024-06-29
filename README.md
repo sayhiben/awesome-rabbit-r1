@@ -58,6 +58,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Reference Material
 
+- [r1 api info](https://gist.github.com/DavidBuchanan314/aafce6ba7fc49b19206bd2ad357e47fa) - GitHub Gist with auth and endpoint details about the Rabbit API.
 - [MS35774 Info](https://firmburrow.rabbitu.de/retr0id/ms35774) - Stepper motor driver details for the ms35774 (r1's camera motor).
 - [GSI tree](https://github.com/RabbitHoleEscapeR1/device_rabbit_r1) - A view of the Rabbit r1's device image / filesystem.
 
