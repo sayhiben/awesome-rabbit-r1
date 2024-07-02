@@ -26,6 +26,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 ## Jailbreaks
 
 - [r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) - A jailbreak tool for the Rabbit r1.
+- [Android on Rabbit r1](https://gist.github.com/veritas06/462844437bd8c5751b85d99c78c68fd8) - Instructions for using r1_escape to put Android on the r1.
 
 
 ## Clients
@@ -62,7 +63,10 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 ## Reference Material
 
 - [r1 api info](https://gist.github.com/DavidBuchanan314/aafce6ba7fc49b19206bd2ad357e47fa) - GitHub Gist with auth and endpoint details about the Rabbit API.
+- [Unofficial r1 APK changelog](https://gist.github.com/DavidBuchanan314/b071223bdae43ec309d996f176992d7c) - A collection of unofficial Changelog notes for each APK released for the r1.
+- [OTA API notes](https://gist.github.com/DavidBuchanan314/37ea2fb5ed15cc063eea82d8789b42b0) - Notes about the r1's OTA API.
 - [MS35774 Info](https://firmburrow.rabbitu.de/retr0id/ms35774) - Stepper motor driver details for the ms35774 (r1's camera motor).
+- [zShield Notes](https://gist.github.com/DavidBuchanan314/ceb3637b7a6877dd7f64950c84228043) - Notes about the obfuscation tool Rabbit uses to package their APKs.
 - [GSI tree](https://github.com/RabbitHoleEscapeR1/device_rabbit_r1) - A view of the Rabbit r1's device image / filesystem.
 
 ## News & Articles
@@ -86,3 +90,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [Rabbitude Discord](https://discord.gg/BQ7VnDFysJ) - Rabbitude's Discord Server.
 - [Rabbitude Firmburrow](https://firmburrow.rabbitu.de) - A self-hosted collection of Git repositories for Rabbitude's projects.
 - [RabbitHoleEscapeR1](https://github.com/RabbitHoleEscapeR1) - A GitHub account that hosts several Rabbit r1 jailbreak-and-reverse-engineering-related resources.
+- [DaveBuchanan314's Rabbit r1 Notes](https://gist.github.com/DavidBuchanan314/04bf8dace76f28f1e8a44155c5982641) - A GitHub Gist index of r1 notes.
