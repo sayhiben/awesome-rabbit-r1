@@ -77,6 +77,10 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [XDA Forums: How to Unlock Rabbit R1 Bootloader - Tutorial](https://xdaforums.com/t/how-to-unlock-rabbit-r1-bootloader-tutorial.4676024/) - Article.
 - [Yanko Design: Got a Rabbit R1? You can now run Android 13 on it and use it like a regular smartphone](https://www.yankodesign.com/2024/06/27/got-a-rabbit-r1-you-can-now-run-android-13-on-it-and-use-it-like-a-regular-smartphone/) - Article.
 
+### News: July 2024
+
+- [The Verge: The Rabbit R1 has been logging users’ chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update) - Article.
+
 ### News: June 2024 Security Vulnerabilities
 
 - [Rabbitude: rabbit  data  breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1) - Article.
