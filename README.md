@@ -42,7 +42,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 - [rabbitude-backend](https://github.com/KibbeWater/rabbitude-backend) - A Go-based backend meant to reimplement the r1's backend and API endpoints.
 - [rabbitserver-go](https://github.com/KibbeWater/rabbitserver-go) - A simple WebSocket wrapper for the RabbitHole API.
-- [rabbitude-hole](https://github.com/KibbeWater/rabbitude-backend) - Rabbithole replacement for the rabbitude launcher.
+- [rabbitude-hole](https://github.com/KibbeWater/rabbitude-hole) - Rabbithole replacement for the rabbitude launcher.
 - [rabbit-server](https://firmburrow.rabbitu.de/meowster/rabbit-server) - A server for the official rabbit client.
 
 ## Integrations & Utilities
