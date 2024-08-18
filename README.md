@@ -79,7 +79,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ### News: July 2024
 
-- [The Verge: The Rabbit R1 has been logging users’ chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update) - Article.
+- [The Verge: The Rabbit R1 has been logging users' chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update) - Article.
 
 ### News: June 2024 Security Vulnerabilities
 
