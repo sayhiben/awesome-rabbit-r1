@@ -44,6 +44,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [rabbitude-hole](https://github.com/KibbeWater/rabbitude-hole) - Rabbithole replacement for the rabbitude launcher.
 
 ## Integrations & Utilities
+
 - [rabbithole-api](https://github.com/meowstercatel/rabbithole-api) - An API client for rabbit r1's rabbithole.
 - [OTA Tool](https://firmburrow.rabbitu.de/emilyls/ota-tool) - A small utility for manually applying OTA updates to partition images.
 - [LAMatHome](https://github.com/dot-Justin/LAMatHome) - A self-hosted integration suite that reads notes from the Rabbithole to add functionality to the r1.
