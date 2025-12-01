@@ -33,7 +33,6 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 - [rabbitude launcher](https://firmburrow.rabbitu.de/rabbitude/rabbitude-launcher) - A native Android project meant run on the r1 and reimplement the r1's frontend.
 - [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
-- [RabbitXposed](https://firmburrow.rabbitu.de/asusna/RabbitXposed) - Makes rabbit app usable with a xposed patch.
 - [r1 apk patcher](https://github.com/meowstercatel/r1-apk-patcher) - Tool to patch a clean rabbit apk into a working one.
 - [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - r1 emulator AVD Setup Files and Instructions.
 - [Hop Project](https://firmburrow.rabbitu.de/crankyroo/MetaHop) - Project working to create a launcher and SDK for r1.
@@ -43,10 +42,10 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [rabbitude-backend](https://github.com/KibbeWater/rabbitude-backend) - A Go-based backend meant to reimplement the r1's backend and API endpoints.
 - [rabbitserver-go](https://github.com/KibbeWater/rabbitserver-go) - A simple WebSocket wrapper for the RabbitHole API.
 - [rabbitude-hole](https://github.com/KibbeWater/rabbitude-hole) - Rabbithole replacement for the rabbitude launcher.
-- [rabbit-server](https://firmburrow.rabbitu.de/meowster/rabbit-server) - A server for the official rabbit client.
 
 ## Integrations & Utilities
 
+- [rabbithole-api](https://github.com/meowstercatel/rabbithole-api) - An API client for rabbit r1's rabbithole.
 - [OTA Tool](https://firmburrow.rabbitu.de/emilyls/ota-tool) - A small utility for manually applying OTA updates to partition images.
 - [LAMatHome](https://github.com/dot-Justin/LAMatHome) - A self-hosted integration suite that reads notes from the Rabbithole to add functionality to the r1.
 - [Rabbit R1 IMEI Generator](https://github.com/annabelsandford/rabbit-r1-imeigen) - a JS-based tool designed to generate and validate IMEI numbers for Rabbit R1 devices ([Live Demo](https://annabelsandford.github.io/rabbit-r1-imeigen/imei_check_v1.html)).
