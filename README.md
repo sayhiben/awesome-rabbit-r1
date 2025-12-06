@@ -34,7 +34,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [rabbitude launcher](https://firmburrow.rabbitu.de/rabbitude/rabbitude-launcher) - A native Android project meant run on the r1 and reimplement the r1's frontend.
 - [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
 - [r1 apk patcher](https://github.com/meowstercatel/r1-apk-patcher) - Tool to patch a clean rabbit apk into a working one.
-- [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - r1 emulator AVD Setup Files and Instructions.
+- [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - AVD setup files and instructions for emulating the Rabbit R1.
 - [Hop Project](https://firmburrow.rabbitu.de/crankyroo/MetaHop) - Project working to create a launcher and SDK for r1.
 
 ## Servers
