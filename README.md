@@ -69,6 +69,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 - [MS35774 Info](https://github.com/CORN-R1/ms35774) - Stepper motor driver details for the ms35774 (r1's camera motor).
 - [zShield Notes](https://gist.github.com/DavidBuchanan314/ceb3637b7a6877dd7f64950c84228043) - Notes about the obfuscation tool Rabbit uses to package their APKs.
 - [GSI tree](https://github.com/RabbitHoleEscapeR1/device_rabbit_r1) - A view of the Rabbit r1's device image / filesystem.
+- [R1 Creation format notes](https://gist.github.com/simongonzalezdc/42c9469b4b4251e2f4f1ac063256ce68) - Notes on the Creation install QR JSON envelope and the Flutter WebView mic-capture recipe.
 
 ## News & Articles
 
